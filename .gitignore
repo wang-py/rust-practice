@@ -1,2 +1,2 @@
 *.x
-*.o
+guessing_game/target/*
